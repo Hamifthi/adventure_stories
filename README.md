@@ -1,3 +1,3 @@
 # adventure_stories
 
-A project that let you move between different stories and they may have different options
+An rest api app that lets you read different stories and experience different endings for each of them.
